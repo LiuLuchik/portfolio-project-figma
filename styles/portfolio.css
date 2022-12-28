@@ -78,15 +78,8 @@ p {
   padding: 18px;
 }
 
-.img-fluid {
-  /* position: absolute; */
-  width: 560px;
-  height: 560px;
-  padding-left: 65px;
-}
-
 .project-description {
-  padding: 120px 40px;
+  padding: 120px 60px;
 }
 
 @media (max-width: 900px) {
