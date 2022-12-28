@@ -22,6 +22,7 @@ h6 {
 
 h1 {
   font-size: 96px;
+  line-height: 1.5;
 }
 
 h2 {
@@ -74,6 +75,7 @@ p {
   font-weight: 500;
   font-size: 16px;
   line-height: 24px;
+  padding: 18px;
 }
 
 .img-fluid {
@@ -88,6 +90,21 @@ p {
 }
 
 @media (max-width: 900px) {
+  h1 {
+    font-size: 55px;
+  }
+  h2 {
+    font-size: 44px;
+  }
+  p {
+    padding-right: 15px;
+  }
+  .hero p {
+    font-size: 30px;
+  }
+  .hero {
+    padding: 80px 20px;
+  }
   .project-description {
     padding: 0;
     text-align: center;
