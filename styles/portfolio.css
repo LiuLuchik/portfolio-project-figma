@@ -1,8 +1,9 @@
 body {
   font-family: "Playfair Display", serif;
-  color: blue;
+  color: black;
+  font-weight: bold;
 }
 p {
   font-family: "Poppins", sans-serif;
-  color: aquamarine;
+  font-weight: normal;
 }
