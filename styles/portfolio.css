@@ -75,6 +75,7 @@ p {
 .content-container h3 {
   font-size: 24px;
   font-family: var(--default-font-familys);
+  margin: 10px;
 }
 
 .work {
