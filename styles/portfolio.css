@@ -74,7 +74,7 @@ nav li.active a {
   background: var(--secondary-color);
   text-align: center;
   /* padding: 276px 450px; */
-  padding: 160px 20px;
+  padding: 80px 20px;
 }
 
 .hero p {
@@ -97,17 +97,17 @@ nav li.active a {
   padding: 60px 20px;
 }
 
-.content-container h1 {
+.content h1 {
   font-size: 64px;
   line-height: 85px;
 }
 
-.content-container h2 {
+.content h2 {
   font-size: 18px;
   font-family: var(--default-font-family);
 }
 
-.content-container h3 {
+.content h3 {
   font-size: 24px;
   font-family: var(--default-font-familys);
   margin: 10px;
@@ -132,6 +132,10 @@ nav li.active a {
   padding: 18px 46px;
 }
 
+.btn-branding:hover {
+  color: #272142;
+}
+
 .btn-branding-outline {
   color: var(--branding-color);
   border: 1px solid var(--branding-color);
@@ -143,7 +147,7 @@ nav li.active a {
 }
 
 .project-description {
-  padding: 120px 60px;
+  padding: 60px 60px;
 }
 
 footer {
@@ -217,11 +221,11 @@ footer .social-links a:hover {
     text-align: center;
   }
 
-  .content-container {
+  .content {
     text-align: center;
     padding: 0;
   }
-  .content-container h1 {
+  .content h1 {
     font-size: 55px;
   }
 }
