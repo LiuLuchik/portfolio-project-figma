@@ -93,7 +93,6 @@ nav li.active a {
 }
 
 .content-container {
-  text-align: center;
   padding: 60px 20px;
 }
 
@@ -119,6 +118,7 @@ nav li.active a {
 
 .content {
   margin: 30px;
+  text-align: center;
 }
 
 .btn-branding {
