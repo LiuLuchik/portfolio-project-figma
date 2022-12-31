@@ -29,7 +29,7 @@ h2 {
   font-size: 64px;
 }
 
-h4 {
+h3 {
   font-size: 43px;
 }
 
@@ -95,7 +95,7 @@ nav a {
 
 .content-container {
   text-align: center;
-  padding: 160px 20px;
+  padding: 60px 20px;
 }
 
 .content-container h1 {
@@ -131,6 +131,10 @@ nav a {
   font-size: 18px;
   line-height: 27px;
   padding: 18px 46px;
+}
+
+.btn-branding a:hover {
+  color: #272142;
 }
 
 .btn-branding-outline {
@@ -198,6 +202,10 @@ footer .social-links a:hover {
   }
   h2 {
     font-size: 44px;
+  }
+
+  h3 {
+    font-size: 26px;
   }
 
   p {
